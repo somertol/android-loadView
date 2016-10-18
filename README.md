@@ -1,0 +1,2 @@
+# android-loadView
+这是集成linearlayout实现的上拉加载和下拉刷新的viewgroup
